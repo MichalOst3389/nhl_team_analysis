@@ -60,3 +60,11 @@
 ![alt text](https://github.com/MichalOst3389/phase_3_project/blob/main/project%203%20images/Churn%20vs%20customer%20service%20calls%20IMG.png)
 
 # International Plan
+
+  Only 9.7% of the customers in this dataset have an international plan. This is an interesting finding, as it suggests that the majority of the customers do not use the international plan.
+  
+ ![alt text](https://github.com/MichalOst3389/phase_3_project/blob/main/project%203%20images/percentage%20of%20customers%20with%20international%20plan%20and%20churn.png)
+ 
+  The analysis found that customers with an international plan were more likely to churn compared to those without the plan, with a churn rate of 42.4% compared to 11.5%, respectively. Given this finding, it is recommended that the company consider combining the international plan with the main plan to avoid customers feeling like they are paying extra for an additional service. By combining the plans, the company may be able to retain more customers who require international service, as they will not feel that they are paying extra for it.
+  
+![alt text](https://github.com/MichalOst3389/phase_3_project/blob/main/project%203%20images/churned%20customers%20by%20plan.png)
