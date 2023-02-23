@@ -37,3 +37,12 @@
   Based on the given confusion matrix, the model predicted positive churn correctly for 566 cases (true positives), did not predict positive churn when it wasn't the case for 85 cases (true negatives), but incorrectly predicted negative churn for 16 cases (false negatives), and did not make any incorrect positive churn predictions (false positives).
   
 ![alt text](https://github.com/MichalOst3389/phase_3_project/blob/main/project%203%20images/Confusion%20matrix%20img.png)
+
+# Total Charges
+
+  The scatter plot shows that higher churn rates correspond with lower total charges, indicating a negative relationship between the two variables. It also highlights the minimum predicted total_charge value and the corresponding churn rate, which can help identify the point where customers are likely to cancel their service.
+  
+  The analysis suggests that customers are likely to consider leaving the company when their total charges reach around $58.45. Based on this insight, a potential strategy is to introduce a monthly plan that charges $58.00 to balance out losses from high spenders and increase satisfaction by offering more services.
+  
+![alt text](https://github.com/MichalOst3389/phase_3_project/blob/main/project%203%20images/Total%20charge%20vs%20churn%20IMG.png)
+
