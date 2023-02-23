@@ -39,7 +39,7 @@
   
 ![alt text](https://github.com/MichalOst3389/phase_3_project/blob/main/project%203%20images/Confusion%20matrix%20img.png)
 
-# Feature importance
+# Feature Importance
 
   The feature importance was calculated and it showed that Total Charge is the strongest predictor of customer churn, followed by Customer Service Calls and International Plan. This suggests that customers are more sensitive to the cost of their telecommunications services and are more likely to leave when their bills are high. Additionally, customers who contact customer service frequently and those with international plans are also more likely to churn.
 
@@ -53,3 +53,10 @@
   
 ![alt text](https://github.com/MichalOst3389/phase_3_project/blob/main/project%203%20images/Total%20charge%20vs%20churn%20IMG.png)
 
+# Customer Service Calls
+
+  Customers who contact customer service frequently are more likely to churn. To address this issue, it is recommended to implement a training program for customer service representatives that emphasizes resolving customer problems within the first three calls. If the problem persists beyond three calls, it should be escalated to a more senior employee. This approach can help improve customer satisfaction and reduce the likelihood of churn.
+
+![alt text](https://github.com/MichalOst3389/phase_3_project/blob/main/project%203%20images/Churn%20vs%20customer%20service%20calls%20IMG.png)
+
+# International Plan
