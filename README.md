@@ -33,10 +33,17 @@
            macro avg       0.99      0.92      0.95       667
            weighted avg       0.98      0.98      0.98       667
 
+# Confusion Matrix
 
   Based on the given confusion matrix, the model predicted positive churn correctly for 566 cases (true positives), did not predict positive churn when it wasn't the case for 85 cases (true negatives), but incorrectly predicted negative churn for 16 cases (false negatives), and did not make any incorrect positive churn predictions (false positives).
   
 ![alt text](https://github.com/MichalOst3389/phase_3_project/blob/main/project%203%20images/Confusion%20matrix%20img.png)
+
+# Feature importance
+
+  The feature importance was calculated and it showed that Total Charge is the strongest predictor of customer churn, followed by Customer Service Calls and International Plan. This suggests that customers are more sensitive to the cost of their telecommunications services and are more likely to leave when their bills are high. Additionally, customers who contact customer service frequently and those with international plans are also more likely to churn.
+
+![alt text](https://github.com/MichalOst3389/phase_3_project/blob/main/project%203%20images/feature%20importance.png)
 
 # Total Charges
 
