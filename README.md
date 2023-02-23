@@ -36,4 +36,4 @@ weighted avg       0.98      0.98      0.98       667
 
   Based on the given confusion matrix, the model predicted positive churn correctly for 566 cases (true positives), did not predict positive churn when it wasn't the case for 85 cases (true negatives), but incorrectly predicted negative churn for 16 cases (false negatives), and did not make any incorrect positive churn predictions (false positives).
   
-![alt text](http://localhost:8888/view/Untitled%20Folder/feature%20importance.png)
+
