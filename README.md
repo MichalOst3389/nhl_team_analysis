@@ -29,9 +29,9 @@
 
            0       0.97      1.00      0.99       566
            1       1.00      0.84      0.91       101
-    accuracy                           0.98       667
-   macro avg       0.99      0.92      0.95       667
-weighted avg       0.98      0.98      0.98       667
+           accuracy                           0.98       667
+           macro avg       0.99      0.92      0.95       667
+           weighted avg       0.98      0.98      0.98       667
 
 
   Based on the given confusion matrix, the model predicted positive churn correctly for 566 cases (true positives), did not predict positive churn when it wasn't the case for 85 cases (true negatives), but incorrectly predicted negative churn for 16 cases (false negatives), and did not make any incorrect positive churn predictions (false positives).
