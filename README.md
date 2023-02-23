@@ -68,3 +68,15 @@
   The analysis found that customers with an international plan were more likely to churn compared to those without the plan, with a churn rate of 42.4% compared to 11.5%, respectively. Given this finding, it is recommended that the company consider combining the international plan with the main plan to avoid customers feeling like they are paying extra for an additional service. By combining the plans, the company may be able to retain more customers who require international service, as they will not feel that they are paying extra for it.
   
 ![alt text](https://github.com/MichalOst3389/phase_3_project/blob/main/project%203%20images/churned%20customers%20by%20plan.png)
+
+## Conclusions & Actionable Insights
+
+  -Create a monthly plan and charge $58.00.
+  
+  -Implement training for customer service representatives to focus on resolving problems by the third call.
+  
+  -International plans are not very popular, they are still an important factor in customer churn. Combine international plans with the monthly plan to provide everything a customer needs into one plan.  
+  
+  
+  For any questions please contact MichalOst3389@gmail.com
+ 
