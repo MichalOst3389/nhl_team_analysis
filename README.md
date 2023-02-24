@@ -1,4 +1,4 @@
-# phase_3_project
+# Customer Churn Analysis
 
 
 ## Overview
@@ -78,5 +78,7 @@
   -International plans are not very popular, they are still an important factor in customer churn. Combine international plans with the monthly plan to provide everything a customer needs into one plan.  
   
   
+# Contact Information
+
   For any questions please contact MichalOst3389@gmail.com
  
