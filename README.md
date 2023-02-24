@@ -47,7 +47,7 @@
 
 # Total Charges
 
-  The scatter plot shows that higher churn rates correspond with lower total charges, indicating a negative relationship between the two variables. It also highlights the minimum predicted total_charge value and the corresponding churn rate, which can help identify the point where customers are likely to cancel their service.
+  The scatter plot highlights the minimum predicted total_charge value and the corresponding churn rate, which can help identify the point where customers are likely to cancel their service.
   
   The analysis suggests that customers are likely to consider leaving the company when their total charges reach around $58.45. Based on this insight, a potential strategy is to introduce a monthly plan that charges $58.00 to balance out losses from high spenders and increase satisfaction by offering more services.
   
