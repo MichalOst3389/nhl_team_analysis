@@ -13,11 +13,11 @@ Our current analysis aims to investigate the divergent goal-scoring strategies e
 
       goalsAgainst  highDangerGoalsAgainst
 
-team                                      
+    team                                      
 
-BOS          147.0                    51.0
+    BOS          147.0                    51.0
 
-BUF          247.0                    81.0
+    BUF          247.0                    81.0
 
 The goal of the linear regression model was to determine the relationship between the position of a shot on the hockey rink (features) and the probability of that shot being a goal (target), which is denoted as 'xGoal'. Specifically, the model aimed to predict the number of goals that would result from shots taken outside the "danger zone" area of the rink. Before running the model, it was observed that the actual number of goals scored in this area was 4499.
 
