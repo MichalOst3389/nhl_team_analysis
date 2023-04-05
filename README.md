@@ -12,8 +12,11 @@ The top relevant features for goalsAgainst for Buffalo and Boston were calculate
 Our current analysis aims to investigate the divergent goal-scoring strategies employed by the Boston and Buffalo teams in high-danger situations. To achieve this, we applied a filter to the situation data, retaining only those instances where high-danger goals were scored against the teams. Subsequently, we grouped the resulting dataframe by team and summed the number of high-danger goals allowed by each team. Our findings reveal that Buffalo has allowed 30 more high-danger goals compared to Boston, which poses a significant challenge for them in games that are closely contested. Despite Buffalo's reputation as a formidable scoring team, addressing their tendency to concede high-danger goals may be crucial to improving their overall performance.
 
       goalsAgainst  highDangerGoalsAgainst
+
 team                                      
+
 BOS          147.0                    51.0
+
 BUF          247.0                    81.0
 
 The goal of the linear regression model was to determine the relationship between the position of a shot on the hockey rink (features) and the probability of that shot being a goal (target), which is denoted as 'xGoal'. Specifically, the model aimed to predict the number of goals that would result from shots taken outside the "danger zone" area of the rink. Before running the model, it was observed that the actual number of goals scored in this area was 4499.
