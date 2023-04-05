@@ -37,7 +37,7 @@ The number of shots predicted to be goals was calculated by counting the number 
 
 The root mean squared error (RMSE) between the actual target values and the predicted target values was calculated to assess the performance of the model. In this case, the RMSE was 0.0079, which means that, on average, the predicted probabilities of the shots being goals were off by 0.0079 units from the actual probabilities.
 
-
+[Link to Regression Model](http://localhost:8888/notebooks/NHL%20Notebook.ipynb#Model predicting new shots that are moved 5 feet out towards the boards)
 
 Next, our analysis aims to investigate the impact of rebounds on goal scoring and identify which types of shots are most likely to result in rebounds. The correlation analysis suggests that higher values of rebound tend to be associated with higher values of goal, but the strength of this relationship is only moderate (correlation coefficient: 0.295). When looking at the correlation between just Buffalo's goals against and rebounds, there is a stronger correlation suggesting that Buffalo does worse than average at defending against rebounds (correlation coefficient: 0.321).
 
