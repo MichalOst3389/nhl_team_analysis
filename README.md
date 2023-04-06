@@ -1,6 +1,6 @@
 # Goal
 
-The objective of this undertaking is to conduct a comprehensive analysis of the defensive strategies employed by the Buffalo Sabres in order to identify potential areas for improvement and develop strategic insights aimed at mitigating the risk of opponents scoring against the team.
+The objective of this undertaking is to conduct a comprehensive analysis of NHL shots from 2022 in order to identify potential areas for defensive improvement and develop strategic insights aimed at mitigating the risk of opponents scoring against the team.
 
 
 # Data
@@ -103,5 +103,21 @@ Analyze the defensive metrics of our own players and provide personalized feedba
 
 Explore the possibility of creating a model to recommend a player with a similar role who may perform better if a player shows no signs of improvement despite giving them sufficient time to improve their defensive play.
 
+-Goal
 
+-Data
+
+-Exploratory Data Analysis
+
+-Regression Model
+
+-Residual Plot
+
+-Actual vs. Predicted Plot
+
+-Distribution Plot
+
+-Rebound Shot Analysis
+
+-Next Steps
 
