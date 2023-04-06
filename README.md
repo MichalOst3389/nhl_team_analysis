@@ -84,4 +84,24 @@ After running a linear regression model to predict the number of goals scored fr
 
 As we look into the importance of rebounds while defending, we have identified an additional factor that plays a crucial role in determining if a shot results in a goal. We investigated the impact of rebounds on goal scoring and identified which types of shots are most likely to result in rebounds. By doing so, we hope to provide our goalie with valuable insights into which shots are most likely to pose a significant threat even after the initial save.
 
-The analysis included calculating the correlation matrix for the DataFrame and selecting the correlation value between "xGoal" and "xRebound". The correlation coefficient of 0.295 indicated a tendency for higher values of xRebound to be associated with higher values of xGoal, but the strength of this relationship was only moderate. However, when looking at the correlation between just our goals against and rebounds, the correlation was stronger, with a reboundGoalsAgainst value of 0.320879, suggesting that the Buffalo Sabres do worse than average at defending against rebounds.
+The analysis included calculating the correlation matrix for the DataFrame and selecting the correlation value between "xGoal" and "xRebound". The correlation coefficient of 0.295 indicated a tendency for higher values of xRebound to be associated with higher values of xGoal, but the strength of this relationship was only moderate. However, when looking at the correlation between just our goals against and rebounds, the correlation was stronger, with a value of 0.320879, suggesting that the Buffalo Sabres do worse than average at defending against rebounds.
+
+
+We filtered the shots that resulted in a rebound, and created a density plot of the rebound shots using the Seaborn library. The resulting plot shows the density of rebound shots in different areas of the rink, mostly directly in front of the net.
+
+In addition to providing insights for goalies, the density map can also be useful for defensemen, as it can help them anticipate the puck's trajectory and be better positioned to retrieve it. By understanding the most common rebound areas, defensemen can take proactive measures to prevent the opposing team from scoring, contributing to the team's overall defensive strategy and helping to minimize the chances of a goal being scored against them.
+
+
+![download](https://user-images.githubusercontent.com/87345982/230191623-96fbbab2-6a8b-4c23-9057-6e5586e65c80.png)
+
+
+# Next Steps
+
+Tailor heatmaps to specific opponents before upcoming games to adopt a more customized defensive approach to each team's playing style.
+
+Analyze the defensive metrics of our own players and provide personalized feedback to help them improve their performance.
+
+Explore the possibility of creating a model to recommend a player with a similar role who may perform better if a player shows no signs of improvement despite giving them sufficient time to improve their defensive play.
+
+
+
